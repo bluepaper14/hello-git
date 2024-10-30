@@ -1,9 +1,13 @@
 #include <iostream>
+
 using namespace std;
 
 int main() {
+    // 변수 선언
     int a = 3;
-    char b = C;
-    cout << a << "..." < b;
+	char b = 'C';
+    
+    // 출력
+    cout << a << "..." << b;
     return 0;
 }
